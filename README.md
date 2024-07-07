@@ -4,9 +4,9 @@ A simple to-do list application built with HTML, CSS, and JavaScript. This appli
 
 ## Features ✅
 
-- Add tasks
-- Delete tasks
-- Mark tasks as completed
+- Add Shopping List
+- Delete shopping List
+- Mark Shopping List as completed
 
 ## Technologies Used 🚀
 
@@ -24,7 +24,7 @@ Make sure you have a modern web browser installed (e.g., Chrome, Firefox, Edge).
 
 ## Things That will be implimented in future 😎
 
-- [x] Storing Shopping list in the a data base
+- [ ] Storing Shopping list in the a data base
 - [ ] Update the website
 - [ ] Allow users to edit existing list items.
 - [ ] Implement persistence using local storage to save the list even after the page reloads.
