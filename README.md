@@ -4,9 +4,9 @@ A simple to-do list application built with HTML, CSS, and JavaScript. This appli
 
 ## Features ✅
 
-- Add Shopping List
-- Delete shopping List
-- Mark Shopping List as completed
+- [ ] Add Shopping List
+- [ ] Delete shopping List
+- [ ] Mark Shopping List as completed
 
 ## Technologies Used 🚀
 
