@@ -33,5 +33,5 @@ Make sure you have a modern web browser installed (e.g., Chrome, Firefox, Edge).
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/todo-list.git
+   git clone https://github.com/KIPTOO-JOB/shoppingList.git
    ```
