@@ -1,4 +1,4 @@
-# Shopping List Application :bulb:
+# Shopping List Application 🛍️
 
 A simple to-do list application built with HTML, CSS, and JavaScript. This application allows users to add, delete, and mark tasks as completed.
 
@@ -22,7 +22,7 @@ Follow the instructions below to get a copy of the project up and running on you
 
 Make sure you have a modern web browser installed (e.g., Chrome, Firefox, Edge).
 
-## Things That will be implimented in future 😎
+## Things That will be implimented in future 😎 :bulb:
 
 - [ ] Storing Shopping list in the a data base
 - [ ] Update the website
