@@ -35,3 +35,7 @@ Make sure you have a modern web browser installed (e.g., Chrome, Firefox, Edge).
    ```sh
    git clone https://github.com/KIPTOO-JOB/shoppingList.git
    ```
+
+### 🎉🚀 And drumroll, please... 🥁 The moment you've all been waiting for... 🥳 Check out the deployed application at the link below! 👇🏾✨
+
+#### Click Me 👉🏽 [ Click Me 👉🏽Shopping List Official Website.](https://shopping-list-khaki-eight.vercel.app/)
