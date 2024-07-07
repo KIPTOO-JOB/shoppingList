@@ -14,7 +14,7 @@ A simple to-do list application built with HTML, CSS, and JavaScript. This appli
 - CSS
 - JavaScript
 
-## Getting Started :D
+## Getting Started 🥳
 
 Follow the instructions below to get a copy of the project up and running on your local machine.
 
