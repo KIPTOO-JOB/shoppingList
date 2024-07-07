@@ -1,4 +1,4 @@
-# To-Do List Application:bulb:
+# To-Do List Application :bulb:
 
 A simple to-do list application built with HTML, CSS, and JavaScript. This application allows users to add, delete, and mark tasks as completed.
 
